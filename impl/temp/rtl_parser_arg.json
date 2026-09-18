@@ -1,0 +1,52 @@
+{
+    "Device": "GW2AR-18C",
+    "Files": [
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/bcd_to_7seg.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/counter_mod10.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/counter_mod100.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/counter_mod100_updown.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/counter_updown_4b.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/display_multiplexer.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/pwm_generator.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/top.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/bcd_to_7seg_d.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/src/sumador_3b.v",
+            "Type": "verilog"
+        }
+    ],
+    "IncludePath": [
+    ],
+    "LoopLimit": 2000,
+    "ResultFile": "C:/Users/guill/Documents/FPGA/TANG nano 20k/Projects/seg7/impl/temp/rtl_parser.result",
+    "Top": "top",
+    "VerilogStd": "verilog_2001",
+    "VhdlStd": "vhdl_93"
+}
